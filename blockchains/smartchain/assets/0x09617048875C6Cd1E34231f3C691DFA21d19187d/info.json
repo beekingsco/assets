@@ -1,0 +1,13 @@
+{
+  "name": "BeeBucks",
+  "symbol": "BBUX",
+  "decimals": 18,
+  "description": "BeeBucks is a fun and mission-driven token for community rewards and conservation.",
+  "website": "https://yourwebsite.com",
+  "socials": {
+    "twitter": "https://twitter.com/yourhandle",
+    "telegram": "https://t.me/yourgroup"
+  },
+  "status": "active",
+  "id": "0xYourContractAddress"
+}
